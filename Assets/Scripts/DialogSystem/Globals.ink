@@ -1,0 +1,1 @@
+VAR computer_on = "false"
